@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65297357137",
+    "project_id": "reactnativeauth-bcc50",
+    "storage_bucket": "reactnativeauth-bcc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65297357137:android:6d32864be6582503755b70",
+        "android_client_info": {
+          "package_name": "com.postget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65297357137-pdqh64nobq75mbnep7t95im93clg1i8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeS9t18tbK-TjwBVZHG1IHR01fIdIrkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65297357137-pdqh64nobq75mbnep7t95im93clg1i8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
